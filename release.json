@@ -1,0 +1,14 @@
+{
+  "edition": "metodologia",
+  "repository": "metodologia-aula-assets",
+  "version": "1.1.0",
+  "archive": "dist/metodologia-aula-assets-1.1.0.zip",
+  "sha256": "f44c73e965885287463204003a4ff9bf2bf7ecca4faac72dbc8f073eaaf3a64e",
+  "manifestSha256": "b15947b27f1d23eba240d8cfa3804e2fa01eb01f3dc3d7627fd3b7c039fee761",
+  "catalogSha256": "21b19e3b1334056378061b979791d683d57c0e79075283e5a05585429fe14645",
+  "files": 427,
+  "uncompressedBytes": 3953240,
+  "icons": 256,
+  "scenes": 160,
+  "galleryArchiveSha256": "6d036f2ccb611f8370bbe03e558716554fb5ca831514e8274431b9bcb20331d5"
+}
