@@ -1,0 +1,12 @@
+{
+  "edition": "metodologia",
+  "name": "MetodologIA",
+  "colors": {
+    "ink": "#0a122a",
+    "accent": "#8a6d00",
+    "canvas": "#f5f7fa",
+    "surface": "#ffffff"
+  },
+  "source": "MetodologIA authored social tokens",
+  "license": "MIT"
+}

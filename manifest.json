@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "frames-aula-asset-bank-v1",
+  "version": "1.0.0",
+  "edition": "metodologia",
+  "license": "MIT",
+  "files": {
+    ".gitignore": "543eb3dff6ab822b9553e0e4f1a607c52991d3660ff0f0f034616ecffca70b5c",
+    "LICENSE": "1e49b3472e4f5e683092bd71002aacde84fb11e2f1b20b1864ba47627a3d4949",
+    "README.md": "46124ad20a7ba54998d993971e7b776ecfb7f886bd587b9241ded43e32799f63",
+    "scenes/contrast.svg": "353e12b3199344f66c0d01e9a02c2fd2f512092a020309235bc5fb88d5f42301",
+    "scenes/flow.svg": "a457165441541601d56a7d083e311a9bd3620194ff278eae8fc018c1bf8738e3",
+    "scenes/gate.svg": "c7bedd9330968e733bb04c2749383423a8319e4403711e4c5c1fa789873875a6",
+    "scenes/orbit.svg": "36ba6052d076f62be0b4a324f75b9ef6544b835b25c5e130bfb40f0941f2c14b",
+    "scenes/steps.svg": "b8c6d49431871477507444ef316176ba6625271aa9d44fb22f5ff5c64c42c331",
+    "scripts/frames-aula.js": "419af7db06f627b9fb9fad9102cfce60d420e8e41af04194563035b8edaf8026",
+    "styles/frames-aula.css": "2304b5f7cb24ffde6bb110c7e4285878039ab93be6bdfcf8ccfdc02fb9bd643c",
+    "templates/dynamic-commercial-decks.json": "971338c5970224193b57e009c33a626011216a64688278156e2a0e9875bb3b5b",
+    "templates/immersive-class.json": "be39df69b3204defd49363c20728875f6bdb9fa7d103dc6686ca1d034b61eb9e",
+    "templates/index.json": "ec081f30a97bbdd5f9da5f178256db961914fb85d43b73c723685fbc2c02a496",
+    "templates/lean-coffee.json": "fb7f840d42f58ebfacedd85f9dcb957552ab4cedca64b6c77c753872f00e134e",
+    "templates/masterclass.json": "56adb9bc78d053cf5d2a9159218b778e3a25f137dca31af8968a7aaa1780e040",
+    "templates/module.json": "ce2b7b892842fe2018afcf56bb56151c5704df5cf0ce8fd2c90d8cbd272b7c19",
+    "templates/playbook-immersive.json": "db57e470c8f3a2d6f260d6bba66c14704af34d21e03a180946bc89ecffc02339",
+    "templates/playbook.json": "6825d8081fa6994652e717f6d26731dc46d2b5c515b5dea23f767df5d566c383",
+    "templates/technical-deck.json": "a52a924fbc8bd9cd0e16a159a012bfbe11ec552324885037ba26ab6636f7a858",
+    "templates/workbook.json": "65c6e74b9cf55fe82e328952fb7d61e1feaa1ceac03d49cc031cb2806136c933",
+    "tokens/brand.json": "f6d2106f66dd5851791dfed9312d2a5bddf5c690de67f25c15b8589a43dfea85"
+  },
+  "originalOnly": true,
+  "compatibility": [
+    "frames-aula-v1"
+  ]
+}
